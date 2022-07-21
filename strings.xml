@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="list_of_array_">
+        <item>Example 1</item>
+        <item>Example 2</item>
+        <item>Example 3</item>
+        <item>Example 4</item>
+        <item>Example 5</item>
+        <item>Example 6</item>
+        <item>Example 7</item>
+
+
+    </string-array>
+</resources>
